@@ -1,4 +1,4 @@
-#  Hi, I'm Vikas Kumar
+#  Hi, I'm Vikas
 
 Frontend Developer  
 UI/UX Designer (Figma)  
